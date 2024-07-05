@@ -15,9 +15,9 @@ Responsive Design:
 Perfectly placed media queries to ensure satisfactory responsiveness across various devices.
 
  ## Technical Stack
-Frontend Framework: React
-Styling: CSS, Block Element Modifier (BEM) methodology
-State Management: React hooks
+Frontend Framework: React <br>
+Styling: CSS, Block Element Modifier (BEM) methodology <br>
+State Management: React hooks <br>
 
 <img width="1583" alt="Screenshot 2024-06-22 at 10 45 37 PM" src="https://github.com/mythilik908/gpt4/assets/37060705/3afa3449-499a-4237-bebe-daed972a28d9">
 <img width="1569" alt="Screenshot 2024-06-22 at 10 46 22 PM" src="https://github.com/mythilik908/gpt4/assets/37060705/9cacaa64-8d9c-4c75-8c54-7349fe35e58a">
